@@ -27,3 +27,4 @@ def normalize_phone(phone_number):
 
 for phone in raw_phones:
     print(normalize_phone(phone))
+    
